@@ -63,7 +63,7 @@ global.povo = '6285965981742' //ovo
 global.pgopay = '6285965981742' //gopay
 global.plinkaja = '6285965981742' //link aja
 global.ppulsa = '6285965981742' //telkomsel
-global.ppulsa2 = '6285965981742' // kalau ada kartu lain isi aja
+global.ppulsa2 = '6288221762599' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/yanstian'
 
 /*============== NOMOR ==============*/
